@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Hales::Renderer.copyright 'Cassidy Hales', 'All rights reserved'
+```
 
 ## Development
 
